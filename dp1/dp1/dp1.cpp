@@ -1,3 +1,4 @@
+//Ver 1.0
 // dp1.cpp: Definiuje punkt wejścia dla aplikacji.
 //
 
